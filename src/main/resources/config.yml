@@ -1,0 +1,7 @@
+service:
+  - ServiceName, reward
+  - AnotherServiceName, reward
+  - default, reward
+broadcast:
+  - "&2%player% &athanks for voting at &2%service%"
+  - "vote with /vote"
